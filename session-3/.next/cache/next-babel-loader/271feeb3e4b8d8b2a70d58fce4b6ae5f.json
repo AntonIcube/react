@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nvar ListPage = function ListPage() {\n  return __jsx(\"div\", null, \"Ini list page\");\n};\n\nexport default ListPage;","map":null,"metadata":{},"sourceType":"module"}
